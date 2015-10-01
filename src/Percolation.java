@@ -16,7 +16,7 @@ public class Percolation {
         }
         for (int i = 0; i < N; i++) {
             for (int j = 0; j < N; j++) {
-                gridOpen[i][j] = false; // close grid . 
+                gridOpen[i][j] = false; // close grid .
             }
         }
     }
